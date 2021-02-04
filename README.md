@@ -1,3 +1,3 @@
-# iamankitroy.github.io
+# Welcome to iamankitroy.github.io!
 
-This is my attempt to create a website using GitHub in order to host an online portfolio.
+This README will outline the basic architechture of this website and will keep a log the the most recent changes.
