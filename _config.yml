@@ -9,7 +9,7 @@ version: 2
 name: Ankit Roy
 title: Scientist
 email: ankit.roy@mpi-dortmund.mpg.de
-website: https://github.com/iamankitroy/iamankitroy.github.io
+# website: https://github.com/iamankitroy/iamankitroy.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
