@@ -127,9 +127,9 @@ content:
         quote: >
           Learning how to learn!
         description: | # this will include new lines to allow paragraphs
-          I had the opportunity to be mentored by Mr. S.L. Acharya, who instilled in me a deep passion for Science and a desire never stop learning.
+          I had the opportunity to be mentored by Mr. S.L. Acharya, who instilled in me a deep passion for Science and a desire to never stop learning.
 
-  - title: A Little More About Me
+  - title: When I'm not in the lab
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
