@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   As a Scientific Researcher with 4+ years of experience in Computational Biology and 4+ years experience in experimental Biochemistry, I strive to make biological systems more quantitative, holistic, predictable, and eventually controllable. My enthusiasm for theoretical and experimental biology drives me to be truly discipline-agnostic and to come up with ideas from multiple paradigms to aid my scientific research.
 
-  Things I currently have the most experience with can be broadly classified into: <mark>Biochemistry</mark>, <mark>TIRF Microscopy</mark> and <mark>Computational Biology</mark>.
+  Things I currently have the most experience with can be broadly classified into: <mark>Biochemistry</mark>, <mark>TIRF Microscopy</mark> and <mark>Computational Biology</mark>. However, I am always eager to explore new ideas and concepts, which helps me grow both personally and professionally. I enjoy staying adaptable and open-minded in the face of new challenges and opportunities.
 
 content:
   - title: Research Experience # Title for the section
