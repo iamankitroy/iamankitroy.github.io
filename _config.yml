@@ -120,6 +120,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           Multidisciplinary course with subjects including Physics, Chemistry, Biology, Mathematics and Computer Science.
 
+      - layout: left
+        title: Learning Centre
+        caption: 2009 - 2011
+        sub_title: Biology
+        quote: >
+          Upcoming
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
