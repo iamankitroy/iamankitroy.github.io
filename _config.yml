@@ -89,11 +89,24 @@ content:
         sub_title: Master's Dissertation Student
         caption: August 2015 - July 2016 | COSPI Lab
         quote: >
-          Knowledge-Based Prediction of Protein-Protein Interactions.
+          Protein Structure Modelling of Entire Proteome.
         description: | # this will include new lines to allow paragraphs
           Modelled the protein structures of 53% of the _Plutella xylostella_ proteome (~11,000 proteins) using a custom built automated pipeline for template matching and homology modelling with MODELLER.
 
           Supervisor: **Prof. M.S. Madhusudhan**
+
+      - layout: left
+        title: Institute of Bioinformatics and Biotechnology
+        link: http://www.unipune.ac.in/snc/institute_of_bioinformatics_and_biotechnology/
+        link_text: unipune.ac.in
+        sub_title: Project Student
+        caption: July 2013 - August 2014 | Smita Zinjarde Lab
+        quote: >
+          Characterization of Bioactive Peptide from Soil Bacteria.
+        description: | # this will include new lines to allow paragraphs
+          Isolated, cloned and characterised a gene encoding an antimicrobial protein BLDZ1 from _Bacillus licheniformis_ D1.
+
+          Supervisor: **Prof. Smita Zinjarde**
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
