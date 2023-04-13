@@ -48,9 +48,9 @@ orcid_username: 0000-0002-2767-1766
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  As a Scientific Researcher with 3+ years of experience in Computational Biology and 3+ years experience in experimental Biochemistry, I strive to make biological systems more quantitative, holistic, predictable, and eventually controllable. My enthusiasm for theoretical and experimental biology drives me to be truly discipline-agnostic and to come up with ideas from multiple paradigms to aid my scientific research.
+  As a Scientific Researcher with 4+ years of experience in Computational Biology and 4+ years experience in experimental Biochemistry, I strive to make biological systems more quantitative, holistic, predictable, and eventually controllable. My enthusiasm for theoretical and experimental biology drives me to be truly discipline-agnostic and to come up with ideas from multiple paradigms to aid my scientific research.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Biochemistry</mark> and <mark>Computational Biology</mark>
 
 content:
   - title: Research Experience # Title for the section
@@ -60,7 +60,7 @@ content:
         title: Max Planck Institute of Molecular Physiology
         link: https://www.mpi-dortmund.mpg.de/research-groups/bieling
         link_text: mpi-dortmund.mpg.de
-        sub_title: Ph.D. Candidate, Dortmund, DE
+        sub_title: Ph.D. Candidate
         caption: July 2019 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
