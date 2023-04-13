@@ -84,11 +84,11 @@ content:
       - layout: left
         title: Institute of Bioinformatics and Biotechnology
         caption: 2011 - 2016
-        sub_title: M.Sc. Biotechnology | 5 year integrated degree
+        sub_title: M.Sc. Biotechnology
         quote: >
-          Upcoming
+          5 year integrated Master's degree at Savitribai Phule Pune University (formerly known as University of Pune).
         description: | # this will include new lines to allow paragraphs
-          Upcoming
+          Multidisciplinary course with subjects including Physics, Chemistry, Biology, Mathematics and Computer Science.
 
   - title: A Little More About Me
     layout: text
