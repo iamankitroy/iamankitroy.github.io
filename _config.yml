@@ -57,6 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Max Planck Institute of Molecular Physiology
         link: https://www.mpi-dortmund.mpg.de/research-groups/bieling
         link_text: mpi-dortmund.mpg.de
@@ -70,6 +71,7 @@ content:
           Supervisor: **Dr. Peter Bieling**
 
       - layout: left
+        border: weak
         title: Indian Institute of Science Education and Research
         link: http://cospi.iiserpune.ac.in/cospi/index.html
         link_text: cospi.iiserpune.ac.in
@@ -83,6 +85,7 @@ content:
           Supervisor: **Prof. M.S. Madhusudhan**
       
       - layout: left
+        border: weak
         title: Indian Institute of Science Education and Research
         link: http://cospi.iiserpune.ac.in/cospi/index.html
         link_text: cospi.iiserpune.ac.in
@@ -112,6 +115,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Institute of Bioinformatics and Biotechnology
         caption: 2011 - 2016
         sub_title: M.Sc. Biotechnology
