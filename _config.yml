@@ -123,10 +123,12 @@ content:
           - title: https://doi.org/10.1073/pnas.2103383118
             icon: fas fa-book
             url: https://doi.org/10.1073/pnas.2103383118
-        quote: >
-          P Sanghavi, P Kumar, **A Roy**, MS Madhusudhan, R Mallik | Proceedings of the National Academy of Sciences | April 2021
         description: | # this will include new lines to allow paragraphs
-          Upcoming
+          P Sanghavi, P Kumar, **A Roy**, MS Madhusudhan, R Mallik
+          
+          **Proceedings of the National Academy of Sciences**
+          
+          April 2021
 
       - layout: top-middle
         title: On and off controls within dynein-dynactin on native cargoes
