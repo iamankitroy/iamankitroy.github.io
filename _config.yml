@@ -277,7 +277,46 @@ content:
           - title: https://courses.edx.org/certificates/d68173b232194e3b88f7890dcde13eab
             icon: fas fa-award
             url: https://courses.edx.org/certificates/d68173b232194e3b88f7890dcde13eab
-        quote: Machine Learning | Linear Regression | Logistic Regression
+        quote: Convolutional Neural Networks | Semantic Segmentation | Computer Vision
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
+        title: Genomic Data Science with Galaxy
+        link: https://www.coursera.org/account/accomplishments/certificate/SPNMPRU8XX
+        link_text: Credential ID - SPNMPRU8XX
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/SPNMPRU8XX
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/SPNMPRU8XX
+        quote: Galaxy | Genomic Analysis
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
+        title: Python for Genomic Data Science
+        link: https://www.coursera.org/account/accomplishments/certificate/PE6N7DWB27
+        link_text: Credential ID - PE6N7DWB27
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/PE6N7DWB27
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/PE6N7DWB27
+        quote: Python | Biopython | Bioinformatics | Genomics
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
+        title: Introduction to Genomic Technologies
+        link: https://www.coursera.org/account/accomplishments/certificate/E6CBDEAKHF
+        link_text: Credential ID - E6CBDEAKHF
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/E6CBDEAKHF
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/E6CBDEAKHF
+        quote: Next Generation Sequencing | Bioinformatics | Statistics
         # description: | # this will include new lines to allow paragraphs
         #   Upcoming
 
