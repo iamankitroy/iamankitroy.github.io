@@ -115,7 +115,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Hello
+        title: On and off controls within dynein \- dynactin on native cargoes
+        subtitle: Proceedings of the National Academy of Sciences
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
