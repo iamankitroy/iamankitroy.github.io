@@ -125,16 +125,18 @@ content:
             url: https://doi.org/10.1073/pnas.2103383118
         quote: P Sanghavi, P Kumar, <b>A Roy</b>, MS Madhusudhan, R Mallik | Proceedings of the National Academy of Sciences | April 2021
         description: | # this will include new lines to allow paragraphs
-          P Sanghavi, P Kumar, **A Roy**, MS Madhusudhan, R Mallik | Proceedings of the National Academy of Sciences | April 2021
+          Upcoming
 
       - layout: top-middle
-        title: On and off controls within dynein-dynactin on native cargoes
-        link: https://doi.org/10.1073/pnas.2103383118
-        link_text: doi.org/10.1073/pnas.2103383118
+        # border: weak
+        title: A knowledge-based scoring function to assess quaternary associations of proteins
+        link: https://doi.org/10.1093/bioinformatics/btaa207
+        link_text: doi.org/10.1093/bioinformatics/btaa207
         additional_links:
-          - title: https://doi.org/10.1073/pnas.2103383118
+          - title: https://doi.org/10.1093/bioinformatics/btaa207
             icon: fas fa-book
-            url: https://doi.org/10.1073/pnas.2103383118
+            url: https://doi.org/10.1093/bioinformatics/btaa207
+        quote: AS Dhawanjewar*, <b>AA Roy</b>*, MS Madhusudhan | Bioinformatics | June 2020
         description: | # this will include new lines to allow paragraphs
           Upcoming
 
