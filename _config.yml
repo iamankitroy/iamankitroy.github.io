@@ -115,7 +115,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        border: weak
+        # border: weak
         title: On and off controls within dynein-dynactin on native cargoes
         link: https://doi.org/10.1073/pnas.2103383118
         link_text: doi.org/10.1073/pnas.2103383118
@@ -124,11 +124,11 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1073/pnas.2103383118
         quote: P Sanghavi, P Kumar, <b>A Roy</b>, MS Madhusudhan, R Mallik | Proceedings of the National Academy of Sciences | April 2021
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: A knowledge-based scoring function to assess quaternary associations of proteins
         link: https://doi.org/10.1093/bioinformatics/btaa207
         link_text: doi.org/10.1093/bioinformatics/btaa207
@@ -137,11 +137,11 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1093/bioinformatics/btaa207
         quote: AS Dhawanjewar*, <b>AA Roy</b>*, MS Madhusudhan | Bioinformatics | June 2020
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Predicting and designing therapeutics against the Nipah virus
         link: https://doi.org/10.1371/journal.pntd.0007419
         link_text: doi.org/10.1371/journal.pntd.0007419
@@ -150,11 +150,11 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1371/journal.pntd.0007419
         quote: N Sen*, TR Kanitkar*, <b>AA Roy</b>*, N Soni, K Amritkar, S Supekar, S Nair, G Singh, MS Madhusudhan | PLoS Neglected Tropical Diseases | December 2019
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Structural insights of a cellobiose dehydrogenase enzyme from the basidiomycetes fungus <i>Termitomyces clypeatus</i>
         link: https://doi.org/10.1016/j.compbiolchem.2019.05.013
         link_text: doi.org/10.1016/j.compbiolchem.2019.05.013
@@ -163,11 +163,11 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1016/j.compbiolchem.2019.05.013
         quote: S Banerjee, <b>A Roy</b>, MS Madhusudhan, HR Bairagya, A Roy | Computational Biology and Chemistry | October 2019
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Protein Interaction Z Score Assessment (PIZSA) - an empirical scoring scheme for evaluation of protein–protein interactions
         link: https://doi.org/10.1093/nar/gkz368
         link_text: doi.org/10.1093/nar/gkz368
@@ -176,11 +176,11 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1093/nar/gkz368
         quote: <b>AA Roy</b>*, AS Dhawanjewar*, P Sharma, G Singh, MS Madhusudhan | Nucleic Acids Research | July 2019
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: <i>In silico</i> methods for design of biological therapeutics
         link: https://doi.org/10.1016/j.ymeth.2017.09.008
         link_text: doi.org/10.1016/j.ymeth.2017.09.008
@@ -189,8 +189,8 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1016/j.ymeth.2017.09.008
         quote: <b>A Roy</b>*, S Nair*, N Sen, N Soni, MS Madhusudhan | Methods | December 2017
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
         title: Gustatory receptors in Lepidoptera - chemosensation and beyond
@@ -201,8 +201,8 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1111/imb.12246
         quote: AR Agnihotri, <b>AA Roy</b>, RS Joshi | Insect Molecular Biology | May 2016
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -230,7 +230,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Advanced Learning Algorithms
         link: https://www.coursera.org/account/accomplishments/certificate/YQTEQLSC6MWS
         link_text: Credential ID - YQTEQLSC6MWS
@@ -239,11 +239,11 @@ content:
             icon: fas fa-award
             url: https://www.coursera.org/account/accomplishments/certificate/YQTEQLSC6MWS
         quote: Artificial Neural Networks | Decision Trees | Random Forest | XGBoost
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Linear Algebra for Machine Learning and Data Science
         link: https://www.coursera.org/account/accomplishments/certificate/MMYLBVUUUHTR
         link_text: Credential ID - MMYLBVUUUHTR
@@ -252,8 +252,8 @@ content:
             icon: fas fa-award
             url: https://www.coursera.org/account/accomplishments/certificate/MMYLBVUUUHTR
         quote: Linear Algebra | Machine Learning | Eigenvalues and Eigenvectors
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
 
   - title: When I'm not in the lab
     layout: text
