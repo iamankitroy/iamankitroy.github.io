@@ -115,7 +115,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        # border: weak
+        border: weak
         title: On and off controls within dynein-dynactin on native cargoes
         link: https://doi.org/10.1073/pnas.2103383118
         link_text: doi.org/10.1073/pnas.2103383118
@@ -128,7 +128,7 @@ content:
         #   Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: A knowledge-based scoring function to assess quaternary associations of proteins
         link: https://doi.org/10.1093/bioinformatics/btaa207
         link_text: doi.org/10.1093/bioinformatics/btaa207
@@ -141,7 +141,7 @@ content:
         #   Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: Predicting and designing therapeutics against the Nipah virus
         link: https://doi.org/10.1371/journal.pntd.0007419
         link_text: doi.org/10.1371/journal.pntd.0007419
@@ -154,7 +154,7 @@ content:
         #   Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: Structural insights of a cellobiose dehydrogenase enzyme from the basidiomycetes fungus <i>Termitomyces clypeatus</i>
         link: https://doi.org/10.1016/j.compbiolchem.2019.05.013
         link_text: doi.org/10.1016/j.compbiolchem.2019.05.013
@@ -167,7 +167,7 @@ content:
         #   Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: Protein Interaction Z Score Assessment (PIZSA) - an empirical scoring scheme for evaluation of protein–protein interactions
         link: https://doi.org/10.1093/nar/gkz368
         link_text: doi.org/10.1093/nar/gkz368
@@ -180,7 +180,7 @@ content:
         #   Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: <i>In silico</i> methods for design of biological therapeutics
         link: https://doi.org/10.1016/j.ymeth.2017.09.008
         link_text: doi.org/10.1016/j.ymeth.2017.09.008
