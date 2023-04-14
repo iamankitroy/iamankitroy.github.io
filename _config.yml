@@ -179,6 +179,31 @@ content:
         description: | # this will include new lines to allow paragraphs
           Upcoming
 
+      - layout: top-middle
+        border: weak
+        title: _In silico_ methods for design of biological therapeutics
+        link: https://doi.org/10.1016/j.ymeth.2017.09.008
+        link_text: doi.org/10.1016/j.ymeth.2017.09.008
+        additional_links:
+          - title: https://doi.org/10.1016/j.ymeth.2017.09.008
+            icon: fas fa-book
+            url: https://doi.org/10.1016/j.ymeth.2017.09.008
+        quote: <b>A Roy</b>*, S Nair*, N Sen, N Soni, MS Madhusudhan | Methods | December 2017
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
+      - layout: top-middle
+        title: Gustatory receptors in Lepidoptera - chemosensation and beyond
+        link: https://doi.org/10.1111/imb.12246
+        link_text: doi.org/10.1111/imb.12246
+        additional_links:
+          - title: https://doi.org/10.1111/imb.12246
+            icon: fas fa-book
+            url: https://doi.org/10.1111/imb.12246
+        quote: AR Agnihotri, <b>AA Roy</b>, RS Joshi | Insect Molecular Biology | May 2016
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
