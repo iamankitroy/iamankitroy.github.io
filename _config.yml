@@ -128,7 +128,7 @@ content:
           Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: A knowledge-based scoring function to assess quaternary associations of proteins
         link: https://doi.org/10.1093/bioinformatics/btaa207
         link_text: doi.org/10.1093/bioinformatics/btaa207
@@ -141,7 +141,7 @@ content:
           Upcoming
 
       - layout: top-middle
-        # border: weak
+        border: weak
         title: Predicting and designing therapeutics against the Nipah virus
         link: https://doi.org/10.1371/journal.pntd.0007419
         link_text: doi.org/10.1371/journal.pntd.0007419
@@ -149,7 +149,33 @@ content:
           - title: https://doi.org/10.1371/journal.pntd.0007419
             icon: fas fa-book
             url: https://doi.org/10.1371/journal.pntd.0007419
-        quote: N Sen*, TR Kanitkar*, <b>AA Roy</b>*, N Soni, K Amritkar, S Supekar, S Nair, G Singh, MS Madhusudhan
+        quote: N Sen*, TR Kanitkar*, <b>AA Roy</b>*, N Soni, K Amritkar, S Supekar, S Nair, G Singh, MS Madhusudhan | PLoS Neglected Tropical Diseases | December 2019
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
+      - layout: top-middle
+        border: weak
+        title: Structural insights of a cellobiose dehydrogenase enzyme from the basidiomycetes fungus Termitomyces clypeatus
+        link: https://doi.org/10.1016/j.compbiolchem.2019.05.013
+        link_text: doi.org/10.1016/j.compbiolchem.2019.05.013
+        additional_links:
+          - title: https://doi.org/10.1016/j.compbiolchem.2019.05.013
+            icon: fas fa-book
+            url: https://doi.org/10.1016/j.compbiolchem.2019.05.013
+        quote: S Banerjee, <b>A Roy</b>, MS Madhusudhan, HR Bairagya, A Roy | Computational Biology and Chemistry | October 2019
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
+      - layout: top-middle
+        border: weak
+        title: Protein Interaction Z Score Assessment (PIZSA) - an empirical scoring scheme for evaluation of protein–protein interactions
+        link: https://doi.org/10.1093/nar/gkz368
+        link_text: doi.org/10.1093/nar/gkz368
+        additional_links:
+          - title: https://doi.org/10.1093/nar/gkz368
+            icon: fas fa-book
+            url: https://doi.org/10.1093/nar/gkz368
+        quote: <b>AA Roy</b>*, AS Dhawanjewar*, P Sharma, G Singh, MS Madhusudhan | Nucleic Acids Research | July 2019
         description: | # this will include new lines to allow paragraphs
           Upcoming
 
