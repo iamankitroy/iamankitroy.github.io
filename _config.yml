@@ -236,7 +236,7 @@ content:
         link_text: Credential ID - YQTEQLSC6MWS
         additional_links:
           - title: https://www.coursera.org/account/accomplishments/certificate/YQTEQLSC6MWS
-            icon: fas fa-diploma
+            icon: fas fa-award
             url: https://www.coursera.org/account/accomplishments/certificate/YQTEQLSC6MWS
         quote: Artificial Neural Networks | Decision Trees | Random Forest | XGBoost
         description: | # this will include new lines to allow paragraphs
@@ -249,7 +249,7 @@ content:
         link_text: Credential ID - MMYLBVUUUHTR
         additional_links:
           - title: https://www.coursera.org/account/accomplishments/certificate/MMYLBVUUUHTR
-            icon: fas fa-diploma
+            icon: fas fa-award
             url: https://www.coursera.org/account/accomplishments/certificate/MMYLBVUUUHTR
         quote: Linear Algebra | Machine Learning | Eigenvalues and Eigenvectors
         description: | # this will include new lines to allow paragraphs
