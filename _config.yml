@@ -255,6 +255,32 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Upcoming
 
+      - layout: top-middle
+        # border: weak
+        title: Supervised Machine Learning - Regression and Classification
+        link: https://www.coursera.org/account/accomplishments/certificate/X6R5TRC94RSF
+        link_text: Credential ID - X6R5TRC94RSF
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/X6R5TRC94RSF
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/X6R5TRC94RSF
+        quote: Machine Learning | Linear Regression | Logistic Regression
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
+        title: DEV290x - Computer Vision and Image Analysis
+        link: https://courses.edx.org/certificates/d68173b232194e3b88f7890dcde13eab
+        link_text: Credential ID - d68173b232194e3b88f7890dcde13eab
+        additional_links:
+          - title: https://courses.edx.org/certificates/d68173b232194e3b88f7890dcde13eab
+            icon: fas fa-award
+            url: https://courses.edx.org/certificates/d68173b232194e3b88f7890dcde13eab
+        quote: Machine Learning | Linear Regression | Logistic Regression
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
   - title: When I'm not in the lab
     layout: text
     content: | # this will include new lines to allow paragraphs
