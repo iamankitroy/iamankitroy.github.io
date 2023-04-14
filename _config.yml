@@ -140,6 +140,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Upcoming
 
+      - layout: top-middle
+        # border: weak
+        title: Predicting and designing therapeutics against the Nipah virus
+        link: https://doi.org/10.1371/journal.pntd.0007419
+        link_text: doi.org/10.1371/journal.pntd.0007419
+        additional_links:
+          - title: https://doi.org/10.1371/journal.pntd.0007419
+            icon: fas fa-book
+            url: https://doi.org/10.1371/journal.pntd.0007419
+        quote: N Sen*, TR Kanitkar*, <b>AA Roy</b>*, N Soni, K Amritkar, S Supekar, S Nair, G Singh, MS Madhusudhan
+        description: | # this will include new lines to allow paragraphs
+          Upcoming
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
