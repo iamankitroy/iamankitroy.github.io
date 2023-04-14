@@ -115,8 +115,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: On and off controls within dynein \- dynactin on native cargoes
-        subtitle: Proceedings of the National Academy of Sciences
+        title: On and off controls within dynein-dynactin on native cargoes
+        link: https://doi.org/10.1073/pnas.2103383118
+        link_text: doi.org/10.1073/pnas.2103383118
+        additional_links:
+          - title: https://doi.org/10.1073/pnas.2103383118
+            icon: fas fa-book
+            url: https://doi.org/10.1073/pnas.2103383118
+        quote: >
+          Proceedings of the National Academy of Sciences | April 2021
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
