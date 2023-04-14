@@ -114,7 +114,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Hello
 
   - title: Education # Title for the section
