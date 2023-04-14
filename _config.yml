@@ -111,20 +111,20 @@ content:
 
           Supervisor: **Prof. Smita Zinjarde**
 
-- title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        border: weak
-        title: On and off controls within dynein–dynactin on native cargoes
-        link:  https://doi.org/10.1073/pnas.2103383118
-        link_text:  https://doi.org/10.1073/pnas.2103383118
-        caption: April 2021
-        sub_title: Proceedings of the National Academy of Sciences
-        quote: >
-          Upcoming
-        description: | # this will include new lines to allow paragraphs
-          Upcoming
+  - title: Publications # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          border: weak
+          title: On and off controls within dynein–dynactin on native cargoes
+          link:  https://doi.org/10.1073/pnas.2103383118
+          link_text:  https://doi.org/10.1073/pnas.2103383118
+          caption: April 2021
+          sub_title: Proceedings of the National Academy of Sciences
+          quote: >
+            Upcoming
+          description: | # this will include new lines to allow paragraphs
+            Upcoming
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
