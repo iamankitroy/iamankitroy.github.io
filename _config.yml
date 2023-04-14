@@ -155,7 +155,7 @@ content:
 
       - layout: top-middle
         border: weak
-        title: Structural insights of a cellobiose dehydrogenase enzyme from the basidiomycetes fungus Termitomyces clypeatus
+        title: Structural insights of a cellobiose dehydrogenase enzyme from the basidiomycetes fungus <i>Termitomyces clypeatus</i>
         link: https://doi.org/10.1016/j.compbiolchem.2019.05.013
         link_text: doi.org/10.1016/j.compbiolchem.2019.05.013
         additional_links:
@@ -181,7 +181,7 @@ content:
 
       - layout: top-middle
         border: weak
-        title: _In silico_ methods for design of biological therapeutics
+        title: <i>In silico</i> methods for design of biological therapeutics
         link: https://doi.org/10.1016/j.ymeth.2017.09.008
         link_text: doi.org/10.1016/j.ymeth.2017.09.008
         additional_links:
