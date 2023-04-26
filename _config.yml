@@ -231,6 +231,32 @@ content:
     content:
       - layout: top-middle
         # border: weak
+        title: Calculus for Machine Learning and Data Science
+        link: https://www.coursera.org/account/accomplishments/certificate/2CXF5LCRHZUU
+        link_text: Credential ID - 2CXF5LCRHZUU
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/2CXF5LCRHZUU
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/2CXF5LCRHZUU
+        quote: Differential Equations | Gradients | Gradient Descent | Hessian
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
+        title: Machine Learning Specialization
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/2QH8CSLWV4Y6
+        link_text: Credential ID - 2QH8CSLWV4Y6
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/specialization/certificate/2QH8CSLWV4Y6
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/specialization/certificate/2QH8CSLWV4Y6
+        quote: Linear Regression | Logistic Regression | Artificial Neural Networks | Decision Trees | Clustering | Anomaly Detection | Recommender Systems | Reinforcement Learning
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
         title: Unsupervised Learning, Recommenders, Reinforcement Learning
         link: https://www.coursera.org/account/accomplishments/certificate/WYVUAAMQH62C
         link_text: Credential ID - WYVUAAMQH62C
