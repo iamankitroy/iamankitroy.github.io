@@ -231,6 +231,19 @@ content:
     content:
       - layout: top-middle
         # border: weak
+        title: Unsupervised Learning, Recommenders, Reinforcement Learning
+        link: https://www.coursera.org/account/accomplishments/certificate/WYVUAAMQH62C
+        link_text: Credential ID - WYVUAAMQH62C
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/WYVUAAMQH62C
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/WYVUAAMQH62C
+        quote: Clustering | Anomaly Detection | Recommender Systems | Collaborative Filtering | Content-based Filtering | Reinforcement Learning
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
         title: Advanced Learning Algorithms
         link: https://www.coursera.org/account/accomplishments/certificate/YQTEQLSC6MWS
         link_text: Credential ID - YQTEQLSC6MWS
