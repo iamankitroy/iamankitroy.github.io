@@ -116,6 +116,19 @@ content:
     content:
       - layout: top-middle
         border: weak
+        title: Molecular mechanisms of inorganic-phosphate release from the core and barbed end of actin filaments
+        link: https://doi.org/10.1101/2023.03.25.534205
+        link_text: doi.org/10.1101/2023.03.25.534205
+        additional_links:
+          - title: https://doi.org/10.1101/2023.03.25.534205
+            icon: fas fa-book
+            url: https://doi.org/10.1101/2023.03.25.534205
+        quote: W Oosterheert, FEC Blanc, <b>A Roy</b>, A Belyy, O Hofnagel, G Hummer, P Bieling, S Raunser | March 2023
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        border: weak
         title: On and off controls within dynein-dynactin on native cargoes
         link: https://doi.org/10.1073/pnas.2103383118
         link_text: doi.org/10.1073/pnas.2103383118
