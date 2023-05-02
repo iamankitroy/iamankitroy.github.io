@@ -214,8 +214,8 @@ content:
             icon: fas fa-book
             url: https://doi.org/10.1111/imb.12246
         quote: AR Agnihotri, <b>AA Roy</b>, RS Joshi | Insect Molecular Biology | May 2016
-        # description: | # this will include new lines to allow paragraphs
-        #   Upcoming
+        description: | # this will include new lines to allow paragraphs
+        * indicates equal contribution
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
