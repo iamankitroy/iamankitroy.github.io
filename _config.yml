@@ -244,6 +244,19 @@ content:
     content:
       - layout: top-middle
         # border: weak
+        title: Neural Networks and Deep Learning
+        link: https://www.coursera.org/account/accomplishments/certificate/WKZVKKTL8W55
+        link_text: Credential ID - WKZVKKTL8W55
+        additional_links:
+          - title: https://www.coursera.org/account/accomplishments/certificate/WKZVKKTL8W55
+            icon: fas fa-award
+            url: https://www.coursera.org/account/accomplishments/certificate/WKZVKKTL8W55
+        quote: Deep Neural Networks
+        # description: | # this will include new lines to allow paragraphs
+        #   Upcoming
+
+      - layout: top-middle
+        # border: weak
         title: Calculus for Machine Learning and Data Science
         link: https://www.coursera.org/account/accomplishments/certificate/2CXF5LCRHZUU
         link_text: Credential ID - 2CXF5LCRHZUU
