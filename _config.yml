@@ -117,13 +117,13 @@ content:
       - layout: top-middle
         border: weak
         title: Molecular mechanisms of inorganic-phosphate release from the core and barbed end of actin filaments
-        link: https://doi.org/10.1101/2023.03.25.534205
-        link_text: doi.org/10.1101/2023.03.25.534205
+        link: https://doi.org/10.1038/s41594-023-01101-9
+        link_text: doi.org/10.1038/s41594-023-01101-9
         additional_links:
-          - title: https://doi.org/10.1101/2023.03.25.534205
+          - title: https://doi.org/10.1038/s41594-023-01101-9
             icon: fas fa-book
-            url: https://doi.org/10.1101/2023.03.25.534205
-        quote: W Oosterheert, FEC Blanc, <b>A Roy</b>, A Belyy, O Hofnagel, G Hummer, P Bieling, S Raunser | bioRxiv | March 2023
+            url: https://doi.org/10.1038/s41594-023-01101-9
+        quote: W Oosterheert, FEC Blanc, <b>A Roy</b>, A Belyy, O Hofnagel, G Hummer, P Bieling, S Raunser | Nature Structural & Molecular Biology | September 2023
         # description: | # this will include new lines to allow paragraphs
         #   Upcoming
 
